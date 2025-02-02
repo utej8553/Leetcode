@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1876-map-of-highest-peak](https://github.com/utej8553/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/utej8553/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/utej8553/Leetcode/tree/master/2145-grid-game) |
 ## Matrix
 |  |

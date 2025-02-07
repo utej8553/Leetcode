@@ -13,7 +13,11 @@ class Solution {
 
             }
             map.put(queries[i][0], queries[i][1]);
-            map2.put(queries[i][1], map2.get(queries[i][1]) + 1);
+            if (map2.containsKey(queries[i][1])) {
+                map2.put(queries[i][1], map2.get(queries[i][1]) + 1);
+            } else {
+                map2.put(queries[i][1], 1);
+            }
             res[i] = map2.size();
         }
         

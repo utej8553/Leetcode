@@ -4,19 +4,21 @@ class Solution {
         Map<Integer, Integer> map2 = new HashMap<>();
         int[] res = new int[queries.length];
         for(int i = 0; i < queries.length; i++) {
-            if(map.containsKey(queries[i][0])) {
-                int temp = map.get(queries[i][0]);
+            int ball = queries[i][0];
+            int color = queries[i][1];
+            if(map.containsKey(ball)) {
+                int temp = map.get(ball);
                 map2.put(temp, map2.get(temp)-1);
                 if(map2.get(temp)==0) {
                     map2.remove(temp);
                 }
 
             }
-            map.put(queries[i][0], queries[i][1]);
-            if (map2.containsKey(queries[i][1])) {
-                map2.put(queries[i][1], map2.get(queries[i][1]) + 1);
+            map.put(ball, color);
+            if (map2.containsKey(color)) {
+                map2.put(color, map2.get(color) + 1);
             } else {
-                map2.put(queries[i][1], 1);
+                map2.put(color, 1);
             }
             res[i] = map2.size();
         }

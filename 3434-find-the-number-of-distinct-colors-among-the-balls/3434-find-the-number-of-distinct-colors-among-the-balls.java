@@ -1,34 +1,22 @@
-import java.util.*;
-
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
-        Map<Integer, Integer> ballColor = new HashMap<>(); // Stores ball -> color
-        Map<Integer, Integer> colorCount = new HashMap<>(); // Stores color -> count
+        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> map2 = new HashMap<>();
         int[] res = new int[queries.length];
-
-        for (int i = 0; i < queries.length; i++) {
-            int ball = queries[i][0]; 
-            int color = queries[i][1]; 
-
-            // If the ball was previously colored, reduce count of the old color
-            if (ballColor.containsKey(ball)) {
-                int oldColor = ballColor.get(ball);
-                colorCount.put(oldColor, colorCount.get(oldColor) - 1);
-
-                // If the old color is no longer assigned to any ball, remove it
-                if (colorCount.get(oldColor) == 0) {
-                    colorCount.remove(oldColor);
+        for(int i = 0; i < queries.length; i++) {
+            if(map.containsKey(queries[i][0])) {
+                int temp = map.get(queries[i][0]);
+                map2.put(temp, map2.get(temp)-1);
+                if(map2.get(temp)==0) {
+                    map2.remove(temp);
                 }
+
             }
-
-            // Assign new color to the ball
-            ballColor.put(ball, color);
-            colorCount.put(color, colorCount.getOrDefault(color, 0) + 1);
-
-            // Store the number of distinct colors
-            res[i] = colorCount.size();
+            map.put(queries[i][0], queries[i][1]);
+            map2.put(queries[i][1], map2.get(queries[i][1]) + 1);
+            res[i] = map2.size();
         }
-
+        
         return res;
     }
 }

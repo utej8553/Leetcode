@@ -1,11 +1,22 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int max = 0;
-        for(int i = 0; i < nums.length; i++) {
-            if(nums[max]<nums[i]) {
-                max = i;
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i = 0; i < nums.length; i++){
+            if(!map.containsKey(nums[i])){
+                map.put(nums[i], 0);
+            } else {
+                map.put(nums[i], map.get(nums[i])+1);
             }
         }
-        return nums[max];
+        Integer maxKey = null;
+        int maxValue = Integer.MIN_VALUE;
+
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() > maxValue) {
+                maxValue = entry.getValue();
+                maxKey = entry.getKey();
+            }
+        }
+        return maxKey;
     }
 }

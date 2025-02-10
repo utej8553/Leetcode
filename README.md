@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
+| [0172-factorial-trailing-zeroes](https://github.com/utej8553/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |

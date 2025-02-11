@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/utej8553/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0367-valid-perfect-square](https://github.com/utej8553/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/utej8553/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/utej8553/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |

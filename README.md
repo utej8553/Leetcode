@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/utej8553/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/utej8553/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utej8553/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/utej8553/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/utej8553/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/utej8553/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |

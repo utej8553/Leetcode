@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
+| [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/utej8553/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/utej8553/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/utej8553/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
+| [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |

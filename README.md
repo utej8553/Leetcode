@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utej8553/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3321-type-of-triangle](https://github.com/utej8553/Leetcode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utej8553/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/utej8553/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2470-removing-stars-from-a-string](https://github.com/utej8553/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/utej8553/Leetcode/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |

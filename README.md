@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [0985-bag-of-tokens](https://github.com/utej8553/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/utej8553/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utej8553/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
+| [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |

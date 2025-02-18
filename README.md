@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0682-baseball-game](https://github.com/utej8553/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/utej8553/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/utej8553/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utej8553/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utej8553/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utej8553/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
 | [2227-sum-of-subarray-ranges](https://github.com/utej8553/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |

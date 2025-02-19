@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/utej8553/Leetcode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/utej8553/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/utej8553/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utej8553/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
+| [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->

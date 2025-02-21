@@ -1,31 +1,42 @@
-import java.util.*;
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class FindElements {
-    Set<Integer> set = new HashSet<>();
+    List<Integer> set = new ArrayList<>();
 
     public FindElements(TreeNode root) {
-        Stack<TreeNode> stack = new Stack<>();
-        Stack<Integer> values = new Stack<>();
-        stack.push(root);
-        values.push(0);
-
-        while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
-            int value = values.pop();
-            set.add(value);
-
-            if (node.right != null) {
-                stack.push(node.right);
-                values.push(2 * value + 2);
-            }
-            if (node.left != null) {
-                stack.push(node.left);
-                values.push(2 * value + 1);
-            }
-        }
+        Func(root, 0);
     }
-
+    
     public boolean find(int target) {
         return set.contains(target);
     }
+    public void Func(TreeNode root, int value){
+        if(root==null){
+            return;
+        } 
+        root.val = value;
+        set.add(value);
+        Func(root.left, 2*value+1);
+        Func(root.right, 2*value+2);
+        return;
+    }
 }
+
+/**
+ * Your FindElements object will be instantiated and called as such:
+ * FindElements obj = new FindElements(root);
+ * boolean param_1 = obj.find(target);
+ */

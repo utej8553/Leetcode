@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/utej8553/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/utej8553/Leetcode/tree/master/0172-factorial-trailing-zeroes) |

@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/utej8553/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/utej8553/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utej8553/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/utej8553/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/utej8553/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/utej8553/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/utej8553/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utej8553/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/utej8553/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utej8553/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utej8553/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utej8553/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

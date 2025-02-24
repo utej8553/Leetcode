@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utej8553/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/utej8553/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/utej8553/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/utej8553/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/utej8553/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/utej8553/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/utej8553/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/utej8553/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/utej8553/Leetcode/tree/master/0817-design-hashmap) |
+| [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/utej8553/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->

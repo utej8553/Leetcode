@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/utej8553/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utej8553/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utej8553/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2434-design-a-number-container-system](https://github.com/utej8553/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utej8553/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/utej8553/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utej8553/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/utej8553/Leetcode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Backtracking
 |  |
 | ------- |

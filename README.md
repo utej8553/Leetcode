@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utej8553/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/utej8553/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/utej8553/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/utej8553/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/utej8553/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/utej8553/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

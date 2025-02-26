@@ -3,7 +3,7 @@ class Solution {
         int m1 = 0;
         int m2 = 0;
         int max_result = 0;
-        int min_result = 0;
+        int min_result = 7;
         for(int i = 0; i < nums.length; i++){
             m1 = Math.max(m1 + nums[i], nums[i]);
             m2 = Math.min(m2 + nums[i], nums[i]);

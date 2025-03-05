@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/utej8553/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/utej8553/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Rolling Hash
 |  |

@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utej8553/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/utej8553/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/utej8553/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/utej8553/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utej8553/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/utej8553/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/utej8553/Leetcode/tree/master/3447-clear-digits) |
 ## String Matching

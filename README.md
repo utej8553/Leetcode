@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/utej8553/Leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/utej8553/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/utej8553/Leetcode/tree/master/0937-online-stock-span) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/utej8553/Leetcode/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/utej8553/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/utej8553/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |

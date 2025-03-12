@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/utej8553/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/utej8553/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/utej8553/Leetcode/tree/master/0910-nth-magical-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utej8553/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/utej8553/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utej8553/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utej8553/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0985-bag-of-tokens](https://github.com/utej8553/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1364-tuple-with-same-product](https://github.com/utej8553/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/utej8553/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/utej8553/Leetcode/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utej8553/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utej8553/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utej8553/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/utej8553/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->

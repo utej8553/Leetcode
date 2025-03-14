@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/utej8553/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/utej8553/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/utej8553/Leetcode/tree/master/2145-grid-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/utej8553/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/utej8553/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/utej8553/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/utej8553/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utej8553/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/utej8553/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/utej8553/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/utej8553/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utej8553/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utej8553/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utej8553/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/utej8553/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/utej8553/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/utej8553/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/utej8553/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utej8553/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/utej8553/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/utej8553/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utej8553/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/utej8553/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/utej8553/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Trie

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/utej8553/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/utej8553/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2754-maximum-strength-of-a-group](https://github.com/utej8553/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2792-neighboring-bitwise-xor](https://github.com/utej8553/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/utej8553/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/utej8553/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/utej8553/Leetcode/tree/master/3321-type-of-triangle) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utej8553/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/utej8553/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2754-maximum-strength-of-a-group](https://github.com/utej8553/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2792-neighboring-bitwise-xor](https://github.com/utej8553/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |

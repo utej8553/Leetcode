@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/utej8553/Leetcode/tree/master/0910-nth-magical-number) |
 | [1070-convert-to-base-2](https://github.com/utej8553/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utej8553/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/utej8553/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/utej8553/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utej8553/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utej8553/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

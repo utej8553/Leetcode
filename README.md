@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/utej8553/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/utej8553/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/utej8553/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0796-reaching-points](https://github.com/utej8553/Leetcode/tree/master/0796-reaching-points) |
 | [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/utej8553/Leetcode/tree/master/0910-nth-magical-number) |
 | [1070-convert-to-base-2](https://github.com/utej8553/Leetcode/tree/master/1070-convert-to-base-2) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utej8553/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utej8553/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/utej8553/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/utej8553/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utej8553/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utej8553/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/utej8553/Leetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/utej8553/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utej8553/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/utej8553/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/utej8553/Leetcode/tree/master/0043-multiply-strings) |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/utej8553/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/utej8553/Leetcode/tree/master/0242-valid-anagram) |
 | [0720-longest-word-in-dictionary](https://github.com/utej8553/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utej8553/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/utej8553/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Simulation
 |  |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/utej8553/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utej8553/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/utej8553/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/utej8553/Leetcode/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utej8553/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -582,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/utej8553/Leetcode/tree/master/0319-bulb-switcher) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

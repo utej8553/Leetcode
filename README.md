@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/utej8553/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/utej8553/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/utej8553/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2187-vowels-of-all-substrings](https://github.com/utej8553/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/utej8553/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/utej8553/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/utej8553/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/utej8553/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/utej8553/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2187-vowels-of-all-substrings](https://github.com/utej8553/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/utej8553/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/utej8553/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utej8553/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utej8553/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utej8553/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2187-vowels-of-all-substrings](https://github.com/utej8553/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2754-maximum-strength-of-a-group](https://github.com/utej8553/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Heap (Priority Queue)
 |  |
@@ -599,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/utej8553/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/utej8553/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->

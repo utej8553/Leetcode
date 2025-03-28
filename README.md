@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/utej8553/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utej8553/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/utej8553/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/utej8553/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/utej8553/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/utej8553/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/utej8553/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utej8553/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2754-maximum-strength-of-a-group](https://github.com/utej8553/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [2887-sort-vowels-in-a-string](https://github.com/utej8553/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/utej8553/Leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |

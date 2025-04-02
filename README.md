@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2754-maximum-strength-of-a-group](https://github.com/utej8553/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2792-neighboring-bitwise-xor](https://github.com/utej8553/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/utej8553/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/utej8553/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/utej8553/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/utej8553/Leetcode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/utej8553/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |

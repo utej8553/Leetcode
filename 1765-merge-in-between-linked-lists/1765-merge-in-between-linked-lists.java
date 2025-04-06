@@ -12,7 +12,7 @@ class Solution {
     public ListNode mergeInBetween(ListNode list1, int a, int b, ListNode list2) {
         ListNode temp = list1;
         ListNode res = list1;
-        for(int i = 0; i <= b; i++){
+        for(int i = 0; i < b+1; i++){
             temp = temp.next;
         }
         for(int i = 0; i < a-1; i++){

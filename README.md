@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/utej8553/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/utej8553/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/utej8553/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/utej8553/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/utej8553/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/utej8553/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/utej8553/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/utej8553/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/utej8553/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/utej8553/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/utej8553/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/utej8553/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/utej8553/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |

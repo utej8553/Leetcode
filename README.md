@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/utej8553/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/utej8553/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utej8553/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/utej8553/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/utej8553/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/utej8553/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/utej8553/Leetcode/tree/master/1449-print-words-vertically) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utej8553/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/utej8553/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/utej8553/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/utej8553/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1449-print-words-vertically](https://github.com/utej8553/Leetcode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/utej8553/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/utej8553/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/utej8553/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/utej8553/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utej8553/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/utej8553/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/utej8553/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/utej8553/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/utej8553/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |

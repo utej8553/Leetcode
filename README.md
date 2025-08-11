@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/utej8553/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/utej8553/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/utej8553/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/utej8553/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/utej8553/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2434-design-a-number-container-system](https://github.com/utej8553/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utej8553/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/utej8553/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utej8553/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/utej8553/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

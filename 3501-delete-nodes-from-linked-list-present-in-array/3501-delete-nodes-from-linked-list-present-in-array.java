@@ -1,34 +1,28 @@
-import java.util.*;
-
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        Set<Integer> numSet = new HashSet<>();
+        ListNode res = new ListNode(0);
+        Set<Integer> list = new HashSet<>();
         for (int num : nums) {
-            numSet.add(num);
+            list.add(num);
         }
-
-        List<Integer> ll = new ArrayList<>();
-        Func(head, ll);
-
-        ll.removeIf(numSet::contains);
-
-        System.out.println(ll);
-
-        ListNode temp = new ListNode(0);
-        ListNode temp1 = temp;
-
-        for (int val : ll) {
-            temp1.next = new ListNode(val);
-            temp1 = temp1.next;
-        }
-
-        return temp.next;
-    }
-
-    public void Func(ListNode head, List<Integer> l) {
+        ListNode temp = res;
         while (head != null) {
-            l.add(head.val);
+            if (!list.contains(head.val)) {
+                temp.next = new ListNode(head.val);
+                temp = temp.next;
+            }
             head = head.next;
         }
+        return res.next;
     }
 }

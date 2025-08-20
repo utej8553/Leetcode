@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/utej8553/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utej8553/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/utej8553/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/utej8553/Leetcode/tree/master/0817-design-hashmap) |

@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/utej8553/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/utej8553/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/utej8553/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/utej8553/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/utej8553/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/utej8553/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/utej8553/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/utej8553/Leetcode/tree/master/0860-design-circular-queue) |
 | [1765-merge-in-between-linked-lists](https://github.com/utej8553/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [1767-design-front-middle-back-queue](https://github.com/utej8553/Leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/utej8553/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/utej8553/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/utej8553/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack

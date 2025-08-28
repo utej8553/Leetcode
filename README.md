@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utej8553/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utej8553/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utej8553/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utej8553/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/utej8553/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/utej8553/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/utej8553/Leetcode/tree/master/2145-grid-game) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utej8553/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/utej8553/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/utej8553/Leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/utej8553/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/utej8553/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/utej8553/Leetcode/tree/master/0242-valid-anagram) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utej8553/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/utej8553/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/utej8553/Leetcode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/utej8553/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utej8553/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utej8553/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/utej8553/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/utej8553/Leetcode/tree/master/0404-sum-of-left-leaves) |

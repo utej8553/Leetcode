@@ -1,45 +1,37 @@
 class MyLinkedList {
-    Deque<Integer> deque;
+    List<Integer> list;
 
     public MyLinkedList() {
-        deque = new ArrayDeque<>();
+        list = new ArrayList<>();
     }
     
     public int get(int index) {
-        int i = 0;
-        for(int num: deque){
-            if(i==index){
-                return num;
-            }
-            i++;
+        if (index < 0 || index >= list.size()) {
+            return -1; 
         }
-        return -1;
+        return list.get(index);
     }
     
     public void addAtHead(int val) {
-        deque.addFirst(val);
+        list.add(0, val);
     }
     
     public void addAtTail(int val) {
-        deque.addLast(val);
+        list.add(val);
     }
     
     public void addAtIndex(int index, int val) {
-        if (index < 0 || index > deque.size()){
+         if (index < 0 || index > list.size()) {
             return;
         }
-        List<Integer> l = new ArrayList<>(deque);
-        l.add(index, val);
-        deque = new ArrayDeque<>(l);
+        list.add(index, val);
     }
     
     public void deleteAtIndex(int index) {
-        if(index<0||index>=deque.size()){
+        if (index < 0 || index >= list.size()) {
             return;
         }
-        List<Integer> l = new ArrayList<>(deque);
-        l.remove(index);
-        deque = new ArrayDeque<>(l);
+        list.remove(index);
     }
 }
 

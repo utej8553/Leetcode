@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/utej8553/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/utej8553/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/utej8553/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/utej8553/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/utej8553/Leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/utej8553/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/utej8553/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/utej8553/Leetcode/tree/master/0260-single-number-iii) |

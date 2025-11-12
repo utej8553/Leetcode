@@ -1,45 +1,57 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null){
-            return null;
-        }
-        if(k==0||Length(head)==1){
+        // Edge cases: empty list or single node, or no rotation needed
+        if (head == null || head.next == null || k == 0) {
             return head;
         }
-        int num = k % Length(head);
-        if(num==0){
-            return head;
+
+        // Calculate the size of the list
+        int size = getSize(head);
+
+        // Compute the effective number of rotations
+        k = k % size;
+        if (k == 0) {
+            return head; // No rotation needed
         }
-        ListNode temp = head;
-        for(int i = 0; i < Length(head)-num-1; i++){
-            temp = temp.next;
-        }
-        ListNode temp2 = temp;
-        ListNode temp3 = temp2.next;
-        while(temp2.next!=null){
-            temp2 = temp2.next;
-        }    
-        temp2.next = head;
-        temp.next = null;
-        return temp3;
+
+        // Find the new tail (size - k - 1) and the new head (size - k)
+        ListNode newTail = getNodeAtPosition(head, size - k - 1);
+        ListNode newHead = newTail.next;
+
+        // Break the list and reconnect the end to the original head
+        newTail.next = null;
+        ListNode tail = getLastNode(newHead);
+        tail.next = head;
+
+        return newHead;
     }
-    public int Length(ListNode head){
-        ListNode temp = head;
-        int count = 0;
-        while(temp!=null){
-            temp = temp.next;
-            count++;
+
+    // Helper method to calculate the size of the list
+    private int getSize(ListNode head) {
+        int size = 0;
+        ListNode current = head;
+        while (current != null) {
+            size++;
+            current = current.next;
         }
-        return count;
+        return size;
+    }
+
+    // Helper method to get the node at a specific position
+    private ListNode getNodeAtPosition(ListNode head, int position) {
+        ListNode current = head;
+        for (int i = 0; i < position; i++) {
+            current = current.next;
+        }
+        return current;
+    }
+
+    // Helper method to find the last node in the list
+    private ListNode getLastNode(ListNode head) {
+        ListNode current = head;
+        while (current.next != null) {
+            current = current.next;
+        }
+        return current;
     }
 }

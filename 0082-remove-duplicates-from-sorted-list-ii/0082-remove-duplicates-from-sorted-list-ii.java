@@ -10,25 +10,25 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        Set<Integer> duplicates = new HashSet<>();
-        Set<Integer> set = new HashSet<>();
-        while(head!=null){
-            if(!set.contains(head.val)&&!duplicates.contains(head.val)){
-                set.add(head.val);
-            } else if(set.contains(head.val)){
-                set.remove(head.val);
-                duplicates.add(head.val);
+        if(head==null) {
+            return null;
+        }
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode current = head;
+        ListNode prev = dummy;
+        while(current!=null) {
+            if(current.next!=null && current.val==current.next.val) {
+                while(current.next!=null && current.val==current.next.val) {
+                    current = current.next;
+                }
+                prev.next = current.next;
+            } else {
+                prev = prev.next;
             }
-            head = head.next;
+            current = current.next;
         }
-        List<Integer> list = new ArrayList<>(set); 
-        Collections.sort(list);
-        ListNode res = new ListNode(0);
-        ListNode temp = res;
-        for(int num: list){
-            temp.next = new ListNode(num);
-            temp = temp.next;
-        }
-        return res.next;
+        return dummy.next;
     }
+    
 }

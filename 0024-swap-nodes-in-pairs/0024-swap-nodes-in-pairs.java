@@ -10,14 +10,26 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
+        int size = LinkedSize(head);
         ListNode temp = head;
-        while(head!=null&&head.next!=null){
-            int num1 = head.val;
-            int num2 = head.next.val;
-            head.val = num2;
-            head.next.val = num1;
-            head = head.next.next;
+        for (int i = 0; i < size / 2; i++) {
+            int tem = temp.val;
+            temp.val = temp.next.val;
+            temp.next.val = tem;
+            temp = temp.next.next;
         }
-        return temp;
+        return head; 
     }
+
+    public int LinkedSize(ListNode head) {
+        int size = 0;
+        ListNode temp = head;
+        while (temp != null) {
+            temp = temp.next;
+            size++;
+        }
+        return size;
+    }
+
+
 }

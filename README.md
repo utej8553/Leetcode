@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/utej8553/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utej8553/Leetcode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utej8553/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/utej8553/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/utej8553/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/utej8553/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
 | [1449-print-words-vertically](https://github.com/utej8553/Leetcode/tree/master/1449-print-words-vertically) |

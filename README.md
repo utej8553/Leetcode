@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/utej8553/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/utej8553/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/utej8553/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/utej8553/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/utej8553/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utej8553/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/utej8553/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/utej8553/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/utej8553/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/utej8553/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/utej8553/Leetcode/tree/master/0206-reverse-linked-list) |

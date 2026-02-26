@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/utej8553/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utej8553/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/utej8553/Leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/utej8553/Leetcode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/utej8553/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/utej8553/Leetcode/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/utej8553/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/utej8553/Leetcode/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/utej8553/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/utej8553/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/utej8553/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/utej8553/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utej8553/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/utej8553/Leetcode/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utej8553/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/utej8553/Leetcode/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/utej8553/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/utej8553/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utej8553/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/utej8553/Leetcode/tree/master/0695-max-area-of-island) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/utej8553/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/utej8553/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -803,4 +807,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/utej8553/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/utej8553/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

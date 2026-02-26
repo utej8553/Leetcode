@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/utej8553/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/utej8553/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/utej8553/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utej8553/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1449-print-words-vertically](https://github.com/utej8553/Leetcode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/utej8553/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/utej8553/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/utej8553/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/utej8553/Leetcode/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utej8553/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1449-print-words-vertically](https://github.com/utej8553/Leetcode/tree/master/1449-print-words-vertically) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/utej8553/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utej8553/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utej8553/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/utej8553/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/utej8553/Leetcode/tree/master/0461-hamming-distance) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utej8553/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utej8553/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utej8553/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/utej8553/Leetcode/tree/master/2478-longest-nice-subarray) |

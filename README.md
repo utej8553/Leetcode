@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/utej8553/Leetcode/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utej8553/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0985-bag-of-tokens](https://github.com/utej8553/Leetcode/tree/master/0985-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/utej8553/Leetcode/tree/master/0994-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/utej8553/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/utej8553/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utej8553/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/utej8553/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utej8553/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/utej8553/Leetcode/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/utej8553/Leetcode/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/utej8553/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/utej8553/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/utej8553/Leetcode/tree/master/2145-grid-game) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/utej8553/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utej8553/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/utej8553/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/utej8553/Leetcode/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/utej8553/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/utej8553/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
